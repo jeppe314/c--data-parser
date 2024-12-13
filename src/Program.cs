@@ -1,4 +1,5 @@
-﻿using GameDataReader.Games;
+﻿using GameDataParser.Shared;
+using GameDataReader.Games;
 using GameDataReader.Shared;
 using GameDataReader.Shared.Interfaces;
 

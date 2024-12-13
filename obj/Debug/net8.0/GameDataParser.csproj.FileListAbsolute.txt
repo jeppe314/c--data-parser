@@ -14,3 +14,4 @@
 /home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/obj/Debug/net8.0/ref/GameDataParser.dll
 /home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/bin/Debug/net8.0/data/games.json
 /home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/bin/Debug/net8.0/data/gamesInvalidFormat.json
+/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/obj/Debug/net8.0/GameDataParser.sourcelink.json

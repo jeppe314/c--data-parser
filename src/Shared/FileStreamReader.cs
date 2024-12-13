@@ -1,10 +1,7 @@
-namespace GameDataReader.Shared;
-
 using System.Text;
 using GameDataReader.Shared.Interfaces;
 
-
-
+namespace GameDataParser.Shared;
 
 internal class FileStreamReader : IFileReader
 {
@@ -24,7 +21,7 @@ internal class FileStreamReader : IFileReader
                 fileContent.AppendLine(line);
             }
         }
-        catch (Exception ex)
+        catch (InvalidOperationException ex)
         {
             Console.WriteLine("Exception: " + ex.Message);
             throw;

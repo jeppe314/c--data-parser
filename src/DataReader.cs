@@ -13,7 +13,6 @@ internal class DataReader<T>(IUserInteractor userInteractor, IFileReader fileRea
         do
         {
             path = _userInteractor.Read("Enter path to your game data");
-            System.Console.WriteLine("WE HERE");
 
         } while (!File.Exists(path));
 

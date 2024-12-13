@@ -1,4 +1,4 @@
-namespace GameDataReader.Shared.Interfaces;
+namespace GameDataParser.Shared.Interfaces;
 
 interface IFileReader
 {

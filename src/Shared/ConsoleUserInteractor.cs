@@ -1,5 +1,6 @@
-namespace GameDataReader.Shared;
-using GameDataReader.Shared.Interfaces;
+using GameDataParser.Shared.Interfaces;
+
+namespace GameDataParser.Shared;
 
 internal class ConsoleUserInteractor : IUserInteractor
 {

@@ -1,5 +1,5 @@
 using System.Text;
-using GameDataReader.Shared.Interfaces;
+using GameDataParser.Shared.Interfaces;
 
 namespace GameDataParser.Shared;
 

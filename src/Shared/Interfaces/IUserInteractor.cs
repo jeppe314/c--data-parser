@@ -1,6 +1,6 @@
-namespace GameDataReader.Shared.Interfaces;
+namespace GameDataParser.Shared.Interfaces;
 
-interface IUserInteractor
+internal interface IUserInteractor
 {
     string Read(string message);
 }

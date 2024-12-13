@@ -1,6 +1,7 @@
 using System.Text.Json;
-using GameDataReader.Shared.Interfaces;
-namespace GameDataReader.Shared;
+using GameDataParser.Shared.Interfaces;
+
+namespace GameDataParser.Shared;
 
 
 internal class JsonFileParser<T> : IFileParser<T>

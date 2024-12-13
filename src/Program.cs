@@ -1,7 +1,7 @@
-﻿using GameDataParser.Shared;
-using GameDataReader.Games;
-using GameDataReader.Shared;
-using GameDataReader.Shared.Interfaces;
+﻿using GameDataParser;
+using GameDataParser.Shared;
+using GameDataParser.Games;
+using GameDataParser.Shared.Interfaces;
 
 try
 {

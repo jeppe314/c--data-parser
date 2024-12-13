@@ -1,15 +1,15 @@
-namespace GameDataReader.Games;
+using GameDataParser.Shared.Interfaces;
 
-using GameDataReader.Shared.Interfaces;
+namespace GameDataParser.Games;
 
 internal class GamePrinter : IDataPrinter<Game>
 {
     public void Print(List<Game> gameObjects)
     {
-
+        Console.WriteLine("The loaded video games are:");
         foreach (Game game in gameObjects)
         {
-            Console.WriteLine($"{game.Title}, released in {game.ReleaseYear}, rating {game.Rating}");
+            Console.WriteLine(game.ToString());
         }
     }
 }

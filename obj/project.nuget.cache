@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+N4BoQJOMaZ89BAiMug00Xfhzl32VFYjTneHc8gDMQzWSGi1rTCh4Cfqs91CvwPwYZ5D/AHBR5uUXR1o9sDaHw==",
+  "success": true,
+  "projectFilePath": "/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/GameDataParser.csproj",
+  "expectedPackageFiles": [
+    "/home/jeppe/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

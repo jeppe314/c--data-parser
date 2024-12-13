@@ -1,0 +1,16 @@
+/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/bin/Debug/net8.0/GameDataParser
+/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/bin/Debug/net8.0/GameDataParser.deps.json
+/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/bin/Debug/net8.0/GameDataParser.runtimeconfig.json
+/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/bin/Debug/net8.0/GameDataParser.dll
+/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/bin/Debug/net8.0/GameDataParser.pdb
+/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/obj/Debug/net8.0/GameDataParser.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/obj/Debug/net8.0/GameDataParser.AssemblyInfoInputs.cache
+/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/obj/Debug/net8.0/GameDataParser.AssemblyInfo.cs
+/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/obj/Debug/net8.0/GameDataParser.csproj.CoreCompileInputs.cache
+/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/obj/Debug/net8.0/GameDataParser.dll
+/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/obj/Debug/net8.0/refint/GameDataParser.dll
+/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/obj/Debug/net8.0/GameDataParser.pdb
+/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/obj/Debug/net8.0/GameDataParser.genruntimeconfig.cache
+/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/obj/Debug/net8.0/ref/GameDataParser.dll
+/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/bin/Debug/net8.0/data/games.json
+/home/jeppe/projects/my_projects/courses/c-sharp/assignments/GameDataParser/bin/Debug/net8.0/data/gamesInvalidFormat.json
